@@ -39,4 +39,4 @@ La première étape consiste à cloner les 2 fichiers suivants:
   title="Inline Frame Example"
   width="100%"
   height="50"
-  src="./terminal_npm.gif"> </iframe>
+  src="https://github.com/N4tsoni/Memento.V2/blob/main/terminal_npm.gif"> </iframe>
