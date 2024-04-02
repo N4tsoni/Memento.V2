@@ -31,9 +31,7 @@ La première étape consiste à cloner les 2 fichiers suivants:
 		<li>MementoServer.V2
 		</li>
 </ul>
-```Python
-import matplotlib.pyplot as plt 
-```
+
 <u> Hello </u>
 
 
