@@ -1,0 +1,19 @@
+input[type="text"],input[type="mail"]
+{
+    width:500
+}
+a:hover{
+    color:green
+}
+a{
+    color : blue
+}
+.header{
+    background-color: aqua;
+}
+.Title_big{
+    background-color: blueviolet;
+}
+.footer{
+    background-color: brown;
+}

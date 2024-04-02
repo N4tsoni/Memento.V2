@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta  charset="utf-8">
+        <title>LES PIZZAS DE SOSOOO</title>
+        <meta name="Description " content="Texte décrivant notre site">
+    </head>
+    <body>
+        <header>
+            <h1> La pizzeria de Sosow</h1>
+            <img src="assets/PizzaDelaMama.jpeg" width="200" height="150"/>
+            <hr>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Allez à l'acceuil</a></li>
+                    <li><a href="menus.html" target="_blank">Allez vers le menu</a></li>
+                    <li><a href="contact.html">Nous contacter</a></li>
+                </ul>
+            </nav>
+
+        </header>
+        <hr>
+        <h2>Ou nous trouver</h2>
+        <p>
+            A douai et bordeaux <br>
+            123 rue du jexiste pas batard <br>
+            BORDEAUX 36007 <br>
+        </p> 
+        <iframe src="https://maps.app.goo.gl/Ak6dnv8peAyLfwbw9" frameborder="0" width="200" height="150"></iframe>
+
+        <h3>Nous contacter</h3>
+        <form action="contact.html">
+            <div>
+                <label for="nom">Votre nom : </label>
+                <input type="text" required id="nom" name="nom"><br/>
+            </div>
+            <div>
+                <label for="email">Votre email : </label>
+                <input type="email" required id="email" name="email"><br/>
+            </div>
+            <div>
+                <label for="Prenom">Votre prenom</label>
+                <input type="prenom" required id="prenom" name="prenom">
+            </div>
+            <div>
+                <label for="message" id="message"></label>
+                <textarea  form="contactForm" id="message" name="message"></textarea><br/>
+            </div>
+            <button type="submit">Soumettre</button>
+
+
+        </form>
+        
+    </body>
+</html>
