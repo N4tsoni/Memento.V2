@@ -32,7 +32,7 @@ La deuxième étape consiste à installer le backend de Mémento. Voici les pré
 	2. Lancer un terminal dans le client et taper la commande suivante: 
 		```bash
 		docker compose up --build ##-- build pour recompiler l'image
-```
+        ```
 	![](https://github.com/N4tsoni/Memento.V2/blob/main/terminal_docker.gif)
 <hr>
 <span style="font-family:cursive"><strong>Etape 3: Installation du front</strong></span>
@@ -47,13 +47,13 @@ La deuxième étape consiste à installer le backend de Mémento. Voici les pré
     cd Memento.V2-Frontend
     ```
     - Installez les dépendances Node.js en exécutant la commande suivante dans le terminal :
-    ```
-    npm install
-    ```
+        ```
+        npm install
+        ```
 		- Ensuite lancez l'appli:
-	  ```
-    npm run dev --build
-    ```
+	    ```
+        npm run dev --build
+        ```
 
 ![](https://github.com/N4tsoni/Memento.V2/blob/main/terminal_npm.gif)
 	
